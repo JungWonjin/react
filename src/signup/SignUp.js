@@ -11,5 +11,5 @@ const SignUp = () => {
         </div>
     );
 };
-//gogogo
+
 export default SignUp;
